@@ -1,0 +1,8 @@
+PORT=4000;
+DB_NAME=tareadb
+DB_USER= root
+DB_PASSWORD=
+DB_HOST="localhost"
+DB_PORT=3306
+DB_DIALECT=mysql
+SECRET_KEY=clave-secreta-de-desarrollo
